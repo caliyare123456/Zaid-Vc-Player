@@ -95,7 +95,8 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " For Any help ⚒️", url=f"https://t.me/Somaliprogrammer"
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/ITZ-ZAID/Zaid-Vc-Player")
+                ]
             ]
         ),
     )
